@@ -1,1 +1,2 @@
 Testing how to resolve conflicts: Create this file in master and push. End
+Testing how to resolve conflicts: Edit main on branch. End
