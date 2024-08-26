@@ -43,6 +43,7 @@ set linked_dirs: %w[
   tmp/sockets
 ]
 
+#has to create a new file (database.yml) inside server /var/www/rails-new/shared/config and copy paste config/database.yml to the new file
 set linked_files: %w[
   config/database.yml
 ]
