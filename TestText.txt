@@ -1,2 +1,6 @@
 Testing how to resolve conflicts: Create this file in master and push. End
 Testing how to resolve conflicts: Edit main on branch. End
+
+Testing git push --force-with-lease: Will there only 1 commit or both?
+1. Normal commit
+2. Commit that I'll use git push --hard-with-lease
